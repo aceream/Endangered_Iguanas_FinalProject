@@ -45,7 +45,7 @@ The model is currently trained to recognize the following 10 classes of endanger
 Check out the app in action! See how it classifies different iguana species with high accuracy.
 
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://www.youtube.com/channel/UCDnDxsxp2Sf4-wjd-vSwB6w)
 
 ## 🧠 How it Works
 
